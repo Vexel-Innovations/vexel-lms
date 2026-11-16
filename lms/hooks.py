@@ -3,14 +3,14 @@ import frappe
 from . import __version__ as app_version
 
 app_name = "frappe_lms"
-app_title = "Learning"
-app_publisher = "Frappe"
-app_description = "Open Source Learning Management System built with Frappe Framework"
+app_title = "Vexel Academy"
+app_publisher = "Vexel Innovations"
+app_description = "Practical technology learning for Vexel learners, instructors, and teams."
 app_icon_url = "/assets/lms/images/lms-logo.png"
-app_icon_title = "Learning"
+app_icon_title = "Vexel Academy"
 app_icon_route = "/lms"
 app_color = "grey"
-app_email = "jannat@frappe.io"
+app_email = "vexelvision@gmail.com"
 app_license = "AGPL"
 required_apps = ["frappe/payments"]
 
